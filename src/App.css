@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+body{
+  background-image: linear-gradient(to right, rgba(237, 80, 80,0.3),rgba(237, 80, 80,0.8));
+}
+.App {
+  text-align: center;
+  margin: 10px;
+  background-image: linear-gradient(to bottom right, red, yellow, orange);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.heading{
+   padding-top: 15px;
+   font-family: 'Dancing Script', cursive;
+}
+
+
+#func-btn{
+  margin: 80px;
+  border-radius: 80px;
+  width: 300px;
+  height: 80px;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+#class-btn{
+  border-radius: 80px;
+  width: 300px;
+  height: 80px;
+  font-size: 25px;
+  font-weight: bolder;
+}
+.App1{
+  margin-right: 120px;
+ 
+}
+
+.box-1{
+  
+}
